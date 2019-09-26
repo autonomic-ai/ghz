@@ -10,7 +10,7 @@ require (
 	github.com/go-playground/universal-translator v0.16.0 // indirect
 	github.com/go-playground/validator v9.29.0+incompatible
 	github.com/golang/protobuf v1.3.1
-	github.com/jhump/protoreflect v1.4.4
+	github.com/jhump/protoreflect v1.5.0
 	github.com/jinzhu/configor v1.1.0
 	github.com/jinzhu/gorm v1.9.10
 	github.com/kr/pretty v0.1.0 // indirect
@@ -30,3 +30,5 @@ require (
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 )
+
+go 1.13
