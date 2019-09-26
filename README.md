@@ -19,6 +19,14 @@ Simple [gRPC](http://grpc.io/) benchmarking and load testing tool inspired by [h
 
 All documentation at [ghz.sh](https://ghz.sh).
 
+## Installation
+
+```
+go get github.com/autonomic-ai/ghz
+cd go/src/github.com/autonomic-ai/ghz
+go install ./cmd/ghz
+```
+
 ## Usage
 
 ```
